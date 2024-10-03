@@ -1,4 +1,14 @@
-/*  
+/Build/little.data.gz
   Content-Encoding: gzip
   Cache-Control: max-age=31536000
-  Vary: Accept-Encoding
+
+/Build/little.framework.js.gz
+  Content-Encoding: gzip
+  Cache-Control: max-age=31536000
+
+/Build/little.wasm.gz
+  Content-Encoding: gzip
+  Cache-Control: max-age=31536000
+
+/*
+  Cache-Control: max-age=0, no-cache, no-store, must-revalidate
