@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "169247538057",
+    "project_id": "little-monster-68e1e",
+    "storage_bucket": "little-monster-68e1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169247538057:android:618b6045061a405352bf58",
+        "android_client_info": {
+          "package_name": "com.digitopolisstudio.littlemonsterhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169247538057-38h8o429bf88fisin5kckksb8aundvej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyj0pml7xFScR3xk4GgpT4mfYs2PYvSjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169247538057-38h8o429bf88fisin5kckksb8aundvej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "169247538057-pqahqhuuc150hoequi7g3nqhh76v54s6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitopolisstudio.littlemonsterhome",
+                "app_store_id": "1636635215"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
